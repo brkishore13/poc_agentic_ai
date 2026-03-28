@@ -1,0 +1,28 @@
+ipykernel
+python-dotenv
+langchain-community
+pydantic
+pypdf
+bs4
+arxiv
+pymupdf
+wikipedia
+
+langchain-text-splitters
+faiss-cpu
+
+langchain >= 0.2
+langchain-core >= 0.2
+langchain-openai >= 0.1
+langgraph
+chromadb
+
+
+
+# python -m venv .venv
+# source .venv/Scripts/activate
+# pip install -r requirements.txt
+# git status
+# git add .
+# git commit -m "test"
+# git push
